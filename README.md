@@ -85,4 +85,5 @@ TIMESTAMP
 BOOLEAN
 
 <img width="884" height="84" alt="Screenshot 2026-08-03 085723" src="https://github.com/user-attachments/assets/0126bc77-510f-4847-bc2c-820e20424814" />
+<img width="666" height="425" alt="Image" src="https://github.com/user-attachments/assets/89b40ebe-b9ed-411a-82aa-1f12aa329310" />
 
