@@ -137,4 +137,9 @@ BOOLEAN
 <img width="699" height="423" alt="image" src="https://github.com/user-attachments/assets/64218706-b46f-4144-9caf-47629875d29d" />
 
 
+<img width="1124" height="91" alt="image" src="https://github.com/user-attachments/assets/7ded527a-e070-44f3-b2d9-7570e7d90be0" />
+
+<img width="353" height="437" alt="image" src="https://github.com/user-attachments/assets/b0e1c554-a0ad-4e44-8634-03edfabca74b" />
+
+<img width="1197" height="87" alt="image" src="https://github.com/user-attachments/assets/5e0b43b8-3990-4e6c-ae5f-3e1c97536492" />
 
